@@ -1,4 +1,4 @@
-# Chess Game using Pygame(GUI)
+# Chess Game using Pygame(GUI)(for code : open branch --master)
 1. GUI
 <img width="406" alt="Screenshot_20240701_110652" src="https://github.com/abhishekpoddar29/Chess/assets/98929252/9a529664-cd94-4cfd-9a07-44ce2fb1b2d2">
 
