@@ -1,9 +1,9 @@
-# Chess Game using Pygame(GUI)(for code : open branch --master)
-# 💫 About this repo.:
-Hi, there. This is 2-player online Chess game . Designed and implemented a user-friendly GUI with Pygame. The interface supports smooth interaction and visual feedback for user actions. Built the game logic using “Python's object-oriented programming”. Implemented game mechanics including move validation, rules enforcement and turn management, ensuring to official chess rules.. 
+# Chess Game using Pygame and Stockfishchess API (GUI)(for code : open branch --master)
+## 💫 About this repo.:
+Hi, there. This is 2-player(Player vs AI) online Chess game integerated with "Stockfishchess API". <br>>Designed and implemented a user-friendly GUI with Pygame. The interface supports smooth interaction and visual feedback for user actions.<br>>Built the game logic using “Python's object-oriented programming”. Implemented game mechanics including move validation, rules enforcement and turn management, ensuring to official chess rules. <br>>This project is in developmemt phase.
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 1. GUI
 <img width="406" alt="Screenshot_20240701_110652" src="https://github.com/abhishekpoddar29/Chess/assets/98929252/9a529664-cd94-4cfd-9a07-44ce2fb1b2d2">
